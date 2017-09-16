@@ -22,17 +22,17 @@ As a side-note, I had initially posted a short version of this as an answer in a
 which later someone copied and pasted in his own public blog. As far as I know he has now removed
 it, and so I decided to release it myself since other people might find it useful as well.
 
-　
+
 Disclaimer
 ----------
 I wrote this for fun to use in other private projects. Use at your own risk.
 
-　
+
 Author
 ------
 Author: Kyriakos Economou (@kyREcon) / www.anti-reversing.com
 
-　
+
 MIT License
 -----------
 
