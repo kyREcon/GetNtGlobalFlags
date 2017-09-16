@@ -1,4 +1,3 @@
-#include <Windows.h>
 #include <stdio.h>
 #include "GetNtGlobalFlags.h"
 
