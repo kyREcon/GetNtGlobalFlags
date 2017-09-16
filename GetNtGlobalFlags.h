@@ -17,7 +17,7 @@ int GetNtGlobalFlags(unsigned int * NtGlobalFlags);
 WTF?!?
 ------
 Retrieves the value of PEB.NtGlobalFlags, which is well-known method to detect a user mode
-debugger, via a high-level implementation that is portable between x86 and x64 architectures.
+debugger in Windows, via a high-level implementation that is portable between x86 and x64 architectures.
 
 This is achieved by taking advantage of an undocumented function exported by Ntdll.dll, named
 RtlGetNtGlobalFlags which does exactly what its name implies.
